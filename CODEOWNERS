@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tanvishinde2312-ux
+/src/backend/database.py      @tanvishinde2312-ux
+/src/backend/routers/auth.py  @tanvishinde2312-ux
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tanvishinde2312-ux
